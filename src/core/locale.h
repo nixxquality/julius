@@ -20,6 +20,8 @@ typedef enum {
     LANGUAGE_SWEDISH,
     LANGUAGE_SIMPLIFIED_CHINESE,
     LANGUAGE_TRADITIONAL_CHINESE,
+    // Fan translations
+    LANGUAGE_GREEK,
     LANGUAGE_MAX_ITEMS
 } language_type;
 
